@@ -1,7 +1,13 @@
 Hi there 👋
-🌱 I am currently in 1st year of BTS SIO at Caensup St Ursule.
+Currently in BTS SIO at CaenSup Sainte-Ursule 🖥️
+
+Beginner in programming
+
+HTML
+CSS
+Java
 
 I passed my bac STI2D at Bayeux.
 
 📫 where to contact me: elliotlebreton8@gmail.com
-Java
+
