@@ -6,6 +6,7 @@ Beginner in programming
 HTML
 CSS
 Java
+MySQL
 
 I passed my bac STI2D at Bayeux.
 
